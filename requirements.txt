@@ -1,6 +1,6 @@
-streamlit==1.32.0
-torch==2.0.0
-torchvision==0.15.1
+streamlit
+torch
+torchvision
 numpy
 pandas
 matplotlib
